@@ -1,0 +1,20 @@
+img {
+    height: 300px;
+    width: auto;
+}
+#info {
+    text-align: center;
+    color:#121275;
+}
+#druhy {
+    background-color: rgb(178, 212, 223);
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    font-size: 60px;
+}
+li {
+    color:rgb(79, 32, 139);
+}
